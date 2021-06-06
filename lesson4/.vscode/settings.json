@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.inferGopath": false,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+}
